@@ -22,7 +22,18 @@ body{
   padding: 20px;
   font-size: 30px;
   border: 2px solid red;
-  box-shadow: -10px 10px 0 #ED3E44;
+  box-shadow: -1px 1px 0 #ED3E44,
+  -2px 2px 0 #ED3E44,
+  -3px 3px 0 #ED3E44,
+  -4px 4px 0 #ED3E44,
+  -5px 5px 0 #ED3E44,
+  -6px 6px 0 #ED3E44,
+  -7px 7px 0 #ED3E44,
+  -8px 8px 0 #ED3E44,
+  -9px 9px 0 #ED3E44,
+  -10px 10px 0 #ED3E44;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 .grid-item:active {
